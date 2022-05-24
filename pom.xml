@@ -9,13 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.tokunaga</groupId>
-	<artifactId>moviegames</artifactId>
+	<artifactId>springboot-moviegame-api</artifactId>
 	<version>1.0.0</version>
-	<name>springboot-redis-cache</name>
-	<description>Demo project for Spring Boot</description>
+	<name>springboot-moviegame-api</name>
+	<description></description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
